@@ -251,10 +251,10 @@ window.sr = ScrollReveal();
 	});
 
 sr.reveal('.nosCasamos', {
-		duration:3000, //tiempo
-		delay:600,
+		duration:1500, //tiempo
+		delay:400,
 		origin: 'left', //origen
-		distance: '400px', //distancia
+		distance: '150px', //distancia
 		
 
 	});
